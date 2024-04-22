@@ -241,4 +241,21 @@ body {
   gap: 12px;
   align-items: center;
   justify-content: center;
+  height: 100%;
+}
+
+.screen-button{
+  color: white;
+  text-align: center;
+  background-color: #34aebe;
+  border: 6px solid transparent;
+  height: 120px;
+  width: 90px;
+  padding: 12px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.screen-button:hover{
+  border: 6px solid #ffffff;
 }
