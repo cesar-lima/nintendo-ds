@@ -263,3 +263,9 @@ body {
 #gameScreen html, iframe, div{
   border-radius: 5px;
 }
+
+#popup-controls {
+  display: none;
+
+  color: white;
+}
