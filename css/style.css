@@ -259,3 +259,7 @@ body {
 .screen-button:hover{
   border: 6px solid #ffffff;
 }
+
+#gameScreen html, iframe, div{
+  border-radius: 5px;
+}
